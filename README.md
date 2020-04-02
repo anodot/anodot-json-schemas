@@ -1,0 +1,1 @@
+# Anodot JSON Schemas 
